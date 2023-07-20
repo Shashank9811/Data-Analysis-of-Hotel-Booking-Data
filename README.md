@@ -9,3 +9,5 @@ Based on our analysis, we suggested two key strategies for reducing the cancella
 1)Optimizing Pricing: The hotel management should consider adjusting their pricing strategy to minimize fluctuations in prices during peak demand periods. Offering competitive rates during high-demand days may encourage guests to keep their bookings.
 
 2)Enhancing Facilities and Services: To retain customers and provide added value, the hotel should focus on improving their facilities and services. This might include offering additional amenities, enhancing guest experiences, and ensuring a pleasant stay for every guest.
+
+By implementing these recommendations, the hotel can strive to lower the cancellation rate, leading to improved guest satisfaction and overall business performance.
